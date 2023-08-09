@@ -61,6 +61,8 @@ Project Update and Timeline
 
 *This is part B) in the project plan [sv: projektredogörelse]. *
 
+*Save the image generated from the Gantt chard spreadsheet into the assets folder, rename it to project-gantt.png*
+
 ![**The Gantt chart will be displayed here when you place it in the assets folder under "project-gantt.png"**](assets/project-gantt.png)
 
 Back-up Plan
