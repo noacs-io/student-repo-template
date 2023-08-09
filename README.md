@@ -48,8 +48,8 @@ code in the `functions` folder. Results generated from main.R can then be import
 
 ### Rmarkdown
 
-Your documents, including the project plan, seminar drafts, and final versions, will be crafted using R via RStudio. They'll be in Rmarkdown
-(.Rmd) format, not a Word format (.docx).
+Your documents, including the project plan [sv: projektredogörelse], seminar drafts, and final versions, will be crafted using R via
+RStudio. They'll be in Rmarkdown (.Rmd) format, not a Word format (.docx).
 
 You'll utilize Git and Github for collaboration. When you reach significant milestones, such as completing a section or addressing feedback,
 update the Github repository. Use Rstudio to add the updated files and then click the "Push" button. Keeping these files up-to-date is
