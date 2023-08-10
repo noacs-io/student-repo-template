@@ -4,6 +4,8 @@ output: html_document
 author: "Your name here"
 bibliography: bibliography.bib
 csl: vancouver.csl
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "out") })
 ---
 
 ```{r setup, include=FALSE}
