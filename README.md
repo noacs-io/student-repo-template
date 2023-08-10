@@ -60,5 +60,22 @@ official styling requirements.
 
 ## Resources
 
-- Git in Rstudio (if using our Rstudio instance, only step 3 and 4 are needed):
-  https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/
+### Git
+
+Git in Rstudio (if using our Rstudio instance, only step 3 and 4 are needed).
+https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/
+
+### R
+
+“Our coding club” - developed by researchers at Edinburgh Uni. They have many great follow-along tutorials from the very basics to more
+advanced topics. Previous students have found this very useful. https://ourcodingclub.github.io/tutorials.html
+
+“R Programming Tutorial - Learn the Basics of Statistical Computing” - a shorter, 2 hour follow-along tutorial on YouTube. A good starting
+point. https://www.youtube.com/watch?v=_V8eKsto3Ug
+
+### R MARKDOWN
+
+“R Markdown” - a good and short introduction for someone who has never used R Markdown before https://rmarkdown.rstudio.com/index.html
+
+"R Markdown Tutorial" - basically covers the same as above but for someone who prefers video format
+https://www.youtube.com/watch?v=K418swtFnik
