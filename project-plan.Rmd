@@ -41,8 +41,11 @@ between 3-5 sentences. Strive to make the paragraphs about the same
 length.*
 
 *bibliography.bib includes an example reference. Add additional
-references in that file as bibtex entries and cite as
-[@exampleKey9999].*
+references in that file as bibtex entries and then cite in text using:
+"[@exampleKey9999]". One can convert DOIs' to bibtex entries using 
+https://www.doi2bib.org/. If you use Zotero you can simply export 
+entries to bibtex `Ctrl-Shift-C`, however you need to first setup 
+Quick Copy to export to bibtex (https://www.zotero.org/support/creating_bibliographies#quick_copy)*
 
 Methods
 =======
